@@ -1,0 +1,16 @@
+{
+  "name": "react-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite serve src",
+    "build": "vite build src --outDir dist "
+  },
+  "dependencies": {
+    "@pika/react": "^16.13.1",
+    "@pika/react-dom": "^16.13.1",
+    "styled-components": "^5.1.0"
+  },
+  "devDependencies": {
+    "vite": "^0.15.0"
+  }
+}
